@@ -1,5 +1,6 @@
 screenshot halaman website
-<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/c814ecc1-eef5-43dc-bf27-86e95b793c73" />
+<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/babcd1ba-aa8f-44bd-bb13-d5dfbafcf67f" />
+
 
 Fitur Utama
 🏟️ Hero Section — Landing page dengan grafis lapangan sepak bola dan animasi jersey melayang
